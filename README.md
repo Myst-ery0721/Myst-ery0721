@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Myst-ery0721
-- 👀 I’m interested in Digital Arts and Programming!
+- 👋 Hi, I’m @Myst-ery0721, you can call me Ery in short :>
+- 👀 I’m interested in Digital Arts and Programming
 - 🌱 I’m currently learning Game development
 - 😄 Pronouns: She/Her
 
