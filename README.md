@@ -1,5 +1,5 @@
  ✨ " Ery " || She/Her ✨
-- Hello! I'm a Digital Artist; Learning Web-development; Pursuing Game Development as a career!
+- Hello! I'm a Digital Artist; currently learning Unity & an aspiring 3D Artist! ; Pursuing Game Development as a career!
 
 
 <!---
